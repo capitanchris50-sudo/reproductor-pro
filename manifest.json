@@ -7,5 +7,7 @@
   "scope": "/",
   "short_name": "Reproductor",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "theme_color": "#ffffff",
+  "id": "/reproductor-pro/",
+  "description": "Mi reproductor de música personal"
 }
