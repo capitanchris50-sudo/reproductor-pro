@@ -9,5 +9,12 @@
   "start_url": "/",
   "theme_color": "#ffffff",
   "id": "/reproductor-pro/",
-  "description": "Mi reproductor de música personal"
+  "description": "Mi reproductor de música personal",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
